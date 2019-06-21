@@ -1,0 +1,64 @@
+{
+    "estado": {
+        "codigoEstado": "200",
+        "glosaEstado": "OK"
+    },
+    "datos": {
+        "statusType": {
+            "code": "100",
+            "description": "Éxito en la operación"
+        },
+        "resourceInformations": {
+            "relatedInitialResource": {
+                "resource": {
+                    "equipmentType": 14,
+                    "equipmentCode": "DEPA_OLT_8",
+                    "equipmentSite": "DEPA",
+                    "equipmentAccessPoint": 9,
+                    "resourceSpecification": {
+                        "equipmentModel": "OLT_ISAM-7360_FX-16",
+                        "equipmentManufacturer": "NOKIA",
+                        "equipmentConfiguration": "7360FX16"
+                    },
+                    "resourceStructureList": {
+                        "resourceStructure": {
+                            "equipmentSubrack": 1,
+                            "equipmentBoard": "FGLT-A_PL-16",
+                            "equipmentSlot": 1,
+                            "position": 11,
+                            "logicalUnit": 33,
+                            "logicalCableList": ""
+                        }
+                    },
+                    "address": {
+                        "subUnit": ""
+                    }
+                }
+            },
+            "relatedTerminalResource": {
+                "resource": {
+                    "equipmentType": 15,
+                    "equipmentCode": "7/6001(9)",
+                    "equipmentSite": "AVBA30870B",
+                    "equipmentAccessPoint": 9,
+                    "resourceSpecification": {
+                        "equipmentModel": "12F-Furukawa-",
+                        "equipmentManufacturer": "FURUKAWA"
+                    },
+                    "resourceStructureList": "",
+                    "address": {
+                        "regionCode": 9,
+                        "streetCode": "015731",
+                        "streetType": "Av.",
+                        "streetName": "GRAN AVENIDA JOSE MIGUEL CARRERA",
+                        "streetNumber": "6001 B",
+                        "coordinateX": -70.6578830847518,
+                        "coordinateY": -33.5096107742299,
+                        "subUnit": ""
+                    }
+                }
+            }
+        }
+    }
+}
+

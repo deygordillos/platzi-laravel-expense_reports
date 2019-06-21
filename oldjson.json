@@ -1,0 +1,192 @@
+{
+    "estado": {
+        "codigoEstado": "200",
+        "glosaEstado": "OK"
+    },
+    "datos": {
+        "status": {
+            "code": 0,
+            "description": "OK"
+        },
+        "resourceInformations": {
+            "relatedResource": {
+                "resource": {
+                    "equipmentType": 1,
+                    "equipmentCode": "t677fq28DT",
+                    "equipmentSite": "WChfcI",
+                    "equipmentAccessPoint": 1,
+                    "resourceSpecification": {
+                        "equipmentSpecificationCode": "R7McyGmEU4W2Qhj",
+                        "equipmentModel": "PPh46K",
+                        "equipmentManufacturer": "H6l7I85WqfPkVy66BBH",
+                        "equipmentConfiguration": "PooOPN",
+                        "equipmentCapacity": 1,
+                        "connectorType": "r3gu6",
+                        "isConnectorized": ""
+                    },
+                    "resourceStructureList": {
+                        "resourceStructure": {
+                            "equipmentRack": "Av68b",
+                            "equipmentSubrack": "R3Dov",
+                            "equipmentBoard": "4kyU3Bc",
+                            "equipmentSlot": "a1BdM7gm",
+                            "equipmentModule": "MPc7P1rj",
+                            "equipmentTray": "hk2bWjH30",
+                            "position": 1,
+                            "logicalUnit": 1,
+                            "logicalCableList": {
+                                "logicalCable": {
+                                    "regionCode": 1,
+                                    "siteCode": "wS42iVRsk",
+                                    "cableCode": "eH4EdVJB0",
+                                    "lateralCableCode": "2Y1Iu",
+                                    "cableFunction": 1,
+                                    "logicalUnitInfoList": {
+                                        "logicalUnitInfo": {
+                                            "logicalUnit": 1,
+                                            "logicalUnitStatus": 1,
+                                            "defectType": 1,
+                                            "defectNotes": "h6q0iF0c",
+                                            "position": 1,
+                                            "positionConnectorType": "dkgewr2"
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    "logicalCableList": {
+                        "logicalCable": {
+                            "regionCode": 1,
+                            "siteCode": "Va3Q1A36030b1wyM",
+                            "cableCode": "RqmR472BB",
+                            "lateralCableCode": "h5O0F",
+                            "cableFunction": 1,
+                            "logicalUnitInfoList": {
+                                "logicalUnitInfo": {
+                                    "logicalUnit": 1,
+                                    "logicalUnitStatus": 1,
+                                    "defectType": 1,
+                                    "defectNotes": "xG704fKq1O45u7",
+                                    "position": 1,
+                                    "positionConnectorType": "ukkY1"
+                                }
+                            }
+                        }
+                    },
+                    "address": {
+                        "zipCode": "r47dK61",
+                        "regionCode": 1,
+                        "streetCode": "CmG0611s",
+                        "preDirectional": "",
+                        "streetType": "2gG4A",
+                        "streetTitle": "tY0Oe3",
+                        "streetName": "7CYm0Y",
+                        "postDirectional": "",
+                        "crossPathCode": "3JelE",
+                        "crossPathType": "4l4da",
+                        "crossPathTitle": "0TayV7",
+                        "crossPathName": "v3BCc4",
+                        "streetNumber": "m5O45r",
+                        "coordinateX": 6.03,
+                        "coordinateY": 3.7,
+                        "subUnit": {
+                            "complementCharacterist": 1,
+                            "complementType": "",
+                            "complementValue": "XUxlKYQ1V"
+                        }
+                    }
+                }
+            },
+            "relatedTerminalResource": {
+                "resource": {
+                    "equipmentType": 1,
+                    "equipmentCode": "pSis2E36",
+                    "equipmentSite": "8hRhf4he",
+                    "equipmentAccessPoint": 1,
+                    "resourceSpecification": {
+                        "equipmentSpecificationCode": "1r6QIh16",
+                        "equipmentModel": "Wl4ha",
+                        "equipmentManufacturer": "4Gf1dI2hMU387mq15WAn",
+                        "equipmentConfiguration": "d84vje",
+                        "equipmentCapacity": 1,
+                        "connectorType": "4Geou",
+                        "isConnectorized": ""
+                    },
+                    "resourceStructureList": {
+                        "resourceStructure": {
+                            "equipmentRack": "sk1rFwdeq",
+                            "equipmentSubrack": "0V1k7",
+                            "equipmentBoard": "alF207",
+                            "equipmentSlot": "NvveQ",
+                            "equipmentModule": "lP4iO",
+                            "equipmentTray": "RYSBu",
+                            "position": 1,
+                            "logicalUnit": 1,
+                            "logicalCableList": {
+                                "logicalCable": {
+                                    "regionCode": 1,
+                                    "siteCode": "jyTKb",
+                                    "cableCode": "4O44ox7",
+                                    "lateralCableCode": "o0otb",
+                                    "cableFunction": 1,
+                                    "logicalUnitInfoList": {
+                                        "logicalUnitInfo": {
+                                            "logicalUnit": 1,
+                                            "logicalUnitStatus": 1,
+                                            "defectType": 1,
+                                            "defectNotes": "lC0kB7",
+                                            "position": 1,
+                                            "positionConnectorType": "c54P0k"
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    "logicalCableList": {
+                        "logicalCable": {
+                            "regionCode": 1,
+                            "siteCode": "AgwSrBTX",
+                            "cableCode": "Ss8ql805",
+                            "lateralCableCode": "QqVG7",
+                            "cableFunction": 1,
+                            "logicalUnitInfoList": {
+                                "logicalUnitInfo": {
+                                    "logicalUnit": 1,
+                                    "logicalUnitStatus": 1,
+                                    "defectType": 1,
+                                    "defectNotes": "2VOd44",
+                                    "position": 1,
+                                    "positionConnectorType": "dIGiOFfiB"
+                                }
+                            }
+                        }
+                    },
+                    "address": {
+                        "zipCode": "X6acN",
+                        "regionCode": 1,
+                        "streetCode": "168oq",
+                        "preDirectional": "",
+                        "streetType": "K6Jm0y",
+                        "streetTitle": "RNSX2",
+                        "streetName": "23Ah7r",
+                        "postDirectional": "",
+                        "crossPathCode": "80Do76FOb4b5",
+                        "crossPathType": "J0ptGr28qA",
+                        "crossPathTitle": "lT550NkA64",
+                        "crossPathName": "RNVW355o",
+                        "streetNumber": "a5U6V",
+                        "coordinateX": 7.4,
+                        "coordinateY": "029.53",
+                        "subUnit": {
+                            "complementCharacterist": 1,
+                            "complementType": "",
+                            "complementValue": "RjJgR4Q3S"
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
